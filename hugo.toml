@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Disapline and Patience'
+theme = 'ananke'
+
+[params]
+#  body_classes = " athelas-near-white"
